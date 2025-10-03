@@ -21,9 +21,7 @@ Hi, I’m **Kulraj Singh** 👋
 
 - 🤖 **AI Engineer** passionate about building intelligent systems, AI agents, and automation tools.  
 - 💻 Skilled in **LangChain, FastAPI, Python, and scalable AI workflows**.  
-- 🔬 Worked on projects ranging from **AI-powered automation** to **agent-driven applications**.  
-- 🏗️ Built **certAI** as a project at **ETH Global New Delhi** – an AI + Web3 dApp verification platform.  
-- 💼 Previous: **AI Engineer at Textr AI** | Current: **AI Engineer at Seorce**.  
+- 🔬 Worked on projects ranging from **AI-powered automation** to **agent-driven applications**.    
 - 🚀 Exploring **multi-agent systems, autonomous AI workflows, and applied AI in real-world products**.  
 - ⚡ Fun fact: I love experimenting with AI agents that can collaborate like humans to solve complex problems.  
 
