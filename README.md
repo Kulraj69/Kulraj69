@@ -67,16 +67,8 @@ Hi, I’m **Kulraj Singh** 👋
 
 </div>
 
----
 
-### 🔎 Featured projects
 
-- [ ] Replace with your top repositories (pin them in your profile too):
-  - [project-1](https://github.com/Kulraj69/) – short one-line description
-  - [project-2](https://github.com/Kulraj69/) – short one-line description
-  - [project-3](https://github.com/Kulraj69/) – short one-line description
-
----
 
 ### 🗺️ What I care about
 - **Clarity over cleverness**: readable, maintainable code
@@ -88,28 +80,16 @@ Hi, I’m **Kulraj Singh** 👋
 
 ### 📫 Get in touch
 
-- Email: <your.email@example.com>
-- LinkedIn: `your-linkedin-handle`
-- Twitter/X: `@your-handle`
+- Email: contact@kulrajsabharwal.com
+- LinkedIn: https://www.linkedin.com/in/kulrajsinghsabharwal/
+- Twitter/X: https://x.com/KulrajSabharwal
 
 If you like my work, consider ⭐ starring repositories and following. It helps!
 
 ---
 
-### ⚙️ Quick setup notes (for you)
-
-- To enable the stat cards above reliably, consider forking/deploying the providers:
-  - `github-readme-stats`: see instructions at `https://github.com/anuraghazra/github-readme-stats`
-  - `streak-stats`: see `https://github.com/DenverCoder1/github-readme-streak-stats`
-- You can keep this section or remove it later; it's invisible on the profile preview if collapsed.
-
 <details>
 <summary>Why this README works</summary>
-
-- Clear intro and value proposition
-- Skimmable sections with badges for quick visual parsing
-- Shows credibility (stats) and invites contact
-- Easy to personalize: edit links, add featured projects
 
 </details>
 
