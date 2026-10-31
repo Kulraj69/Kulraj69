@@ -1,74 +1,34 @@
-<div align="center">
+# Kulraj Singh Sabharwal
 
-# Kulraj Singh
+Founder of Qualia Bits, building voice AI for Indian call centres in Hindi, English and Hinglish. I build agents and retrieval systems, and I contribute to the open-source projects I use.
 
-AI engineer building agentic systems, retrieval infrastructure, and product-first AI workflows.
+## What I'm building
 
-[![GitHub followers](https://img.shields.io/github/followers/Kulraj69?label=Follow&style=for-the-badge)](https://github.com/Kulraj69)
-[![Profile views](https://komarev.com/ghpvc/?username=Kulraj69&style=for-the-badge)](https://github.com/Kulraj69)
+- **Qualia Bits** - voice bots and call analytics for call centres.
+- **Seorce** - helping brands show up in ChatGPT and AI search answers.
 
-</div>
+## Open source
 
----
+- Merged a Hindi translation fix into [Rocket.Chat #43312](https://github.com/RocketChat/Rocket.Chat/pull/43312).
+- Open PRs in [Kubeflow Pipelines](https://github.com/kubeflow/pipelines/pulls?q=is%3Apr+author%3AKulraj69) and [Oppia Android](https://github.com/oppia/oppia-android/pulls?q=is%3Apr+author%3AKulraj69).
+- Recent contributions include bug fixes and translation improvements.
 
-## About
+## Selected builds
 
-- Building at the intersection of AI engineering and product execution.
-- Interested in autonomous workflows, multi-agent systems, and retrieval architectures.
-- Focused on shipping practical systems that work under real constraints.
-
----
-
-## Current Work
-
-- **Seorce**: visibility engine for ChatGPT-first discovery.
-- **Qualia Bits / CallPulse**: AI-powered call analytics and workflow intelligence.
-- **KSDB**: intelligent document engine with hybrid retrieval, OCR, graph extraction, and semantic tooling.
-
----
-
-## Featured Builds
-
-- **EMA APM take-home (full submission)**  
-  Product strategy deck, agent-powered MVP prototype, architecture/docs, and walkthrough.
-  - Notion dossier: https://kulrajsabharwal.notion.site/Ema-Kulraj-2bddf51b54678025ba79e8ebd949361a?source=copy_link
-  - Live prototype: https://ema-three-kappa.vercel.app/
-  - GitHub repo: https://github.com/Kulraj69/ema
-  - Loom demo: https://www.loom.com/share/90210b8079c8480ba7aa95769797ba38
-
-- **RISA Labs assignment dossier**  
-  Product + design + technical assignment package with execution artifacts.
-  - Notion dossier: https://kulrajsabharwal.notion.site/RISA-LABS-Kulraj-2bcdf51b546780b58a2eeb81e9307cd0?source=copy_link
-
-- **KSDB**  
-  Built from first principles to explore vector retrieval, semantic caching, memory layers, and graph-linked chunks.
-  - Repo: https://github.com/Kulraj69/KSDB
-
----
-
-## Tech
-
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-121212?logo=chainlink&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/Postgres-4169E1?logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
-
----
+- [**leash**](https://github.com/Kulraj69/leash) - a prototype spending firewall for AI agents on NEAR: plain-English policy, function-call keys.
+- [**upgrade-oracle**](https://github.com/Kulraj69/upgrade-oracle) - an agent that reads real changelogs to find which breaking changes hit your code, with citations.
+- [**bug-compass**](https://github.com/Kulraj69/bug-compass) - how far does a fix sit from what the issue names? A localization-radius atlas over SWE-bench Lite.
+- [**asli-byaaj**](https://github.com/Kulraj69/asli-byaaj) - paste a loan offer, see its true APR, red flags and regulated alternatives. English + Hindi.
+- [**taste-twin**](https://github.com/Kulraj69/taste-twin) - plans a weekend from your taste using Qloo, with a reason for every pick.
+- [**KSDB**](https://github.com/Kulraj69/KSDB) - a vector database with vector retrieval, semantic caching, memory layers and graph-linked chunks.
 
 ## Writing
 
-- Website: https://www.kulrajsabharwal.com
-- Blog: https://www.kulrajsabharwal.com/blog
+- https://www.kulrajsabharwal.com
+- https://www.kulrajsabharwal.com/blog
 
----
+## Contact
 
-## Connect
-
-- Email: contact@kulrajsabharwal.com
-- LinkedIn: https://www.linkedin.com/in/kulrajsinghsabharwal/
-- X: https://x.com/KulrajSabharwal
-
+- contact@kulrajsabharwal.com
+- https://www.linkedin.com/in/kulrajsinghsabharwal/
+- https://x.com/KulrajSabharwal
