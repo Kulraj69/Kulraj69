@@ -5,7 +5,6 @@ Founder of Qualia Bits, building voice AI for Indian call centres in Hindi, Engl
 ## What I'm building
 
 - **Qualia Bits** - voice bots and call analytics for call centres.
-- **Seorce** - helping brands show up in ChatGPT and AI search answers.
 
 ## Open source
 
