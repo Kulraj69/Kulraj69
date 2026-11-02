@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/header.jpg" alt="A quiet terminal glowing in a moonlit room" />
+<img src="assets/header.svg" alt="A quiet terminal glowing in a moonlit room" />
 
 <a href="https://www.kulrajsabharwal.com"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=100000&color=36BCF7&center=true&vCenter=true&repeat=false&width=470&lines=Kulraj+Singh+Sabharwal" alt="Kulraj Singh Sabharwal" /></a>
 
